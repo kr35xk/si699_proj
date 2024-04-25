@@ -1,4 +1,5 @@
 # si699_proj
+with Jenny Ye, Nawat Swatthong, Kuang-Yu Wang
 
 # Project Goal
 To develop a specialized search engine that identifies scholars and research institutions for CS-related research topics.
