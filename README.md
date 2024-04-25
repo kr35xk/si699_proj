@@ -13,4 +13,5 @@ Researchers, students looking for advisors, and business people who need advice 
 <img width="732" alt="截屏2024-04-25 下午4 06 02" src="https://github.com/kr35xk/si699_proj/assets/106477491/ecc354d0-892f-436f-8c4c-11945d5b017c">
 
 # Result
-<img width="400" alt="截屏2024-04-25 下午4 18 07" src="https://github.com/kr35xk/si699_proj/assets/106477491/f1e6fcf8-73b6-40b3-95e4-addfbd9f4fa7">
+
+<img width="356" alt="截屏2024-04-25 下午4 18 42" src="https://github.com/kr35xk/si699_proj/assets/106477491/3b7c2ca7-4d49-4267-8182-a5ee4a13cb81">
